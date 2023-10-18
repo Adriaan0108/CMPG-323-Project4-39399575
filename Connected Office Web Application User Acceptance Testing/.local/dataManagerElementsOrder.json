@@ -38,6 +38,7 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [
+        "InputDataTable",
         "TestDataFilePath"
       ],
       "ConstantsSectionElementsOrder": [],
