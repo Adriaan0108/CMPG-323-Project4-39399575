@@ -1,6 +1,7 @@
 # CMPG-323-Project4-39399575
 
-Link to App: https://cloud.uipath.com/cmpg3vskgbsa/DefaultTenant/orchestrator_/processes?tid=60423&fid=1111889&index=0&size=10&state=M4ewTgLgPgZglgUwDYBMoDsCGBbBUVxgIDGEcI6UmwxAevQCQAMUDAjFAExQDMUALAF1BQA%3D
+Link to UiPath Process: https://cloud.uipath.com/cmpg3vskgbsa/DefaultTenant/orchestrator_/processes?tid=60423&fid=1111889&index=0&size=10&state=M4ewTgLgPgZglgUwDYBMoDsCGBbBUVxgIDGEcI6UmwxAevQCQAMUDAjFAExQDMUALAF1BQA%3D
+Link to Web App: https://cmpg323-ecopowerlogistics.azurewebsites.net/
 
 When the app is launched the user enters their username and password in the respective pop ups to log in:
 
