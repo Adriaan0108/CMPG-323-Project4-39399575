@@ -36,7 +36,9 @@
     {
       "Path": "Customer.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "action&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [
         "InputDataTable",
         "TestDataFilePath"
